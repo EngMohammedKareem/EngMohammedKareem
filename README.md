@@ -9,7 +9,7 @@ I'm **Mohammed**, a 26-year-old Computer Engineering graduate 🎓 with a love f
 
 - **Age**: 26
 - **Degree**: Bachelor's in Computer Engineering
-- **Experience**: JavaScript, diving into Laravel
+- **Experience**: JavaScript, and recently fell in love with Laravel
 - **Interests**: Learning new tech, coding, and building cool projects
 
 ## 🛠️ What I’m Working On
