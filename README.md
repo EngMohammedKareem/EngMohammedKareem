@@ -24,8 +24,10 @@ Any Laravel project to improve my skills and help me learn best practises from o
 
 I love documenting my learning process and sharing insights. Feel free to explore my code, provide feedback, or just say hi!
 
-## READ MY ARTICLES PLEASE (links in my bio)
+## READ MY ARTICLES PLEASE
+[dev.to](https://dev.to/mohammed_kareem)
 
+[medium](https://medium.com/@devdotpy)
 ---
 
-Happy coding! 💻✨
+Let's work on something together! 💻✨
